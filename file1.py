@@ -1,4 +1,4 @@
-# Code to take 2 numbers and show their sum change 2
+# Code to take 2 numbers and show their sum change 3
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
